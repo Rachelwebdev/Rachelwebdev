@@ -10,7 +10,7 @@ I'm a Software Engineer, with experience and key knowledge in HTML, CSS and JAVA
 - 🌱 I’m currently learning JavaScript and Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing rachelisaac995@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1aykE4ccrbkjCvtcD9HGUcccHIEND0a9g/view?usp=sharing) and contact me by emailing rachelisaac995@gmail.com.
 
 ---
 
