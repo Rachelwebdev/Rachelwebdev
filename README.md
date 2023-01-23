@@ -1,5 +1,3 @@
-# Hello there; welcome 👋🏾
-
 <img src="https://raw.githubusercontent.com/Rachelwebdev/Rachelwebdev/main/I'm%20Rachel.png" alt="banner that says Hi there, I'm Rachel, a highly skilled developer">
 
 [![Website Badge](https://img.shields.io/badge/-rachelportfolio.com-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://https://rachelwebdev.github.io/my-portfolio-website/)](https://rachelwebdev.github.io/my-portfolio-website/) [![Linkedin Badge](https://img.shields.io/badge/-rachelisaac13-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rachelisaac13/)](https://www.linkedin.com/in/rachelisaac13/) [![Twitter Badge](https://img.shields.io/badge/-@Rachelisaac13-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Rachelisaac13)](https://twitter.com/Rachelisaac13)
