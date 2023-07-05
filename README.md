@@ -7,7 +7,7 @@ I'm a Software Engineer, with experience and key knowledge in HTML, CSS and JAVA
 
 - 😊 Pronouns: She/her 
 - 🌱 I'm currently training to become an International Software Developer at [Microverse](https://www.microverse.org/gclid=CjwKCAiAv9ucBhBXEiwA6N8nYF1ek2YLu_oJwcm8deytCMgQZaRPb8Gr4PMtrxXRv49nRy7mnvrwUxoCJw4QAvD_BwE).
-- 😊 I’m looking for career opportunities in software development.
+- 😊 I am currently available for hire and open to new job opportunities.
 - 💼 Job interests: Software Developer, Frontend developer, UI Engineer, React Developer.
 - 💡 Fun fact: When I'm not coding, I'm watching K-Drama!😊 🍿🍿🎬🍿🍿
 - 📫 You can [view my resume](https://drive.google.com/file/d/1aykE4ccrbkjCvtcD9HGUcccHIEND0a9g/view?usp=sharing) and contact me by emailing rachelisaac995@gmail.com.
